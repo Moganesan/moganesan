@@ -12,10 +12,6 @@
 - ⚡ I'm Very Passionated about Technology that's why i started my journey
 - 💪🏻 Never ever give up on your dreams!!
 
-### My latest Course in 02master.com:
-
-<a target="_blank" href="https://www.02master.com/courses/QWN89F4t3Sh6c0yiJ946"><img aligh="left" style="width:40%" src="https://www.02master.com/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fzerotomaster-b630e.appspot.com%2Fo%2FComplete%2520JavaScript%2520Course%2520Thumbnail.jpg%3Falt%3Dmedia%26token%3Dc9eb6f9e-2777-4ec9-942c-8fb4f3c36da3&w=1920&q=75"/>
-</a>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -33,6 +29,11 @@
 <img align="left" alt="Vercel" width="26px" src="https://www.moganesan.tech/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fvercel.835f5ae7.svg&w=128&q=75" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+### My latest Course in 02master.com:
+
+<a target="_blank" href="https://www.02master.com/courses/QWN89F4t3Sh6c0yiJ946"><img aligh="left" style="width:40%" src="https://www.02master.com/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fzerotomaster-b630e.appspot.com%2Fo%2FComplete%2520JavaScript%2520Course%2520Thumbnail.jpg%3Falt%3Dmedia%26token%3Dc9eb6f9e-2777-4ec9-942c-8fb4f3c36da3&w=1920&q=75"/>
+</a>
 
 ---
 
