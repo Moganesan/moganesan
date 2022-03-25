@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Build world class software products in my own😎
 - ⚡ I'm Very Passionated about Technology that's why i started my journey
-- 💪🏻 Never ever give up on your dreams!!
 
 ### Languages and Tools:
 
