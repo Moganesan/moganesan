@@ -1,4 +1,4 @@
-# Hi , I'm Moganesan - [Full-Stack Developer][Designer][Coding Instructor] 🔥
+# Hi , I'm Moganesan - [Full-Stack Developer][Designer][Udemy Instructor] 🔥
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7xPYNGJfIYcEf--iiYyHHA?logo=youtube&logoColor=red&style=for-the-badge)
 [![Courses](https://img.shields.io/website?label=02master.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://02master.com)
@@ -31,7 +31,7 @@
 <br/>
 <br/>
 
-### My latest Courses in 02master.com:
+### My latest Courses on 02master.com:
 
 <a target="_blank" href="https://www.02master.com/courses/QWN89F4t3Sh6c0yiJ946"><img aligh="left" style="width:40%" src="https://www.02master.com/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fzerotomaster-b630e.appspot.com%2Fo%2FComplete%2520JavaScript%2520Course%2520Thumbnail.jpg%3Falt%3Dmedia%26token%3Dc9eb6f9e-2777-4ec9-942c-8fb4f3c36da3&w=1920&q=75"/>
 </a>
