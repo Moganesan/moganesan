@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning everything excited to me
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn Blockchain and Web 3.0
-- ⚡ I'm Very Passionated about Technology that's why i started my journey
 
 ### Languages and Tools:
 
