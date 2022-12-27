@@ -7,8 +7,6 @@
 
 - 🌱 Building software for changing ordinary
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn Blockchain and Web 3.0
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
