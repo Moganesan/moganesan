@@ -3,7 +3,6 @@
 [![Courses](https://img.shields.io/website?label=02master.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://02master.com)
 [![Portfolio](https://img.shields.io/website?label=moganesan.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://moganesan.tech)
 
-## I'm a Full-Stack Developer, Designer, Intructor at 02master.com
 
 - 🌱 Building software for changing ordinary
 - 👯 I’m looking to collaborate with other developers
