@@ -4,8 +4,7 @@
 [![Portfolio](https://img.shields.io/website?label=moganesan.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://moganesan.tech)
 
 
-- 🌱 Building software for changing ordinary
-- 👯 I’m looking to collaborate with other developers
+- 🌱 Building softwares
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
